@@ -32,10 +32,19 @@ SOA 방식을 베이스로 도입하였으며, 시스템을 여러개의 독립�
 
 -REST :  Representational State Transfer의 약자
 자원을 이름으로 구분하여(자원의 표현) 해당자원의 상태(정보)를 주고받는 모든 것을 의미
+REST는 네트워크 상에서 Client와 Server 사이의 통신 방식 중 하나이다.
 
 구체적개념
 HTTP URI(Uniform Resource Identifier)를 통해 자원(Resource)을 명시하고, HTTP Method(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CRUD Operation을 적용하는 것을 의미한다.
 
+CRUD Operation
+- Create : 생성(POST)
+- Read : 조회(GET)
+- Update : 수정(PUT)
+- Delete : 삭제(DELETE)
+- HEAD: header 정보 조회(HEAD)
+
+참고 : https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html
 
 
 
