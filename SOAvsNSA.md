@@ -12,7 +12,7 @@ SOA (Service Oriented Architecture) 란?
 장점
 재사용성, 핵심은 유연성(여러가지 서비스를 조합하여 신규 시스템을 제공가능)
 
-
+http://www.jidum.com/jidums/view.do?jidumId=310
 ---
 
 
