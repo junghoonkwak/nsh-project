@@ -24,7 +24,7 @@ MSA (MicroService Architecture) 란?
  - 작고, API로 다은 서비스와 연계, 자율적, 한가지일을 잘하는데 초점을 맞춘 서비스
  - (첨부파일 참고)
  - 트랜잭션 중점의 시스템에 불리함
-
+ - DevOps 지향
 
 -REST :  Representational State Transfer의 약자
 자원을 이름으로 구분하여(자원의 표현) 해당자원의 상태(정보)를 주고받는 모든 것을 의미
