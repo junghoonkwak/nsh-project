@@ -10,7 +10,8 @@ SOA (Service Oriented Architecture) 란?
 - 2000년대 초반들어서 부각된 아키텍쳐 스타일로 현재까지 그 컨셉은 계속 이어져내려옴
 
 장점
-재사용성, 핵심은 유연성(여러가지 서비스를 조합하여 신규 시스템을 제공가능)
+재사용성(레고웨어), 핵심은 유연성(여러가지 서비스를 조합하여 신규 시스템을 제공가능)
+
 https://www.researchgate.net/figure/Before-SOA-vs-After-SOA-The-diagram-shown-in-figure-24-provides-an-explanation-using_fig3_313113813
 http://www.jidum.com/jidums/view.do?jidumId=310
 ---
